@@ -3,8 +3,6 @@
 - **GitHub repo:** https://github.com/abjj1999/breez
 - **Live site:** https://breez-azure.vercel.app/
 
-The rebuild lives in the **`breezy/`** Next.js repository (sibling of this folder). Full architecture answers — hosting, CMS, security, maintenance, performance, and the new feature — are in that repo's `README.md`.
-
 **Summary of decisions:**
 
 - **Stack:** Next.js 16 (App Router) + TypeScript + Tailwind CSS v4 + Motion. All three routes prerender to static HTML.
